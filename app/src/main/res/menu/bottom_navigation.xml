@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/temperature"
+        android:icon="@drawable/ic_thermometer_temperature_svgrepo_com"
+        android:title="Temperature" />
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_icons8_news"
+        android:title="News"
+        />
+    <item
+        android:id="@+id/travel"
+        android:icon="@drawable/ic_airplanemode_active_black_24dp"
+        android:title="Declare Travel"
+        />
+    <item
+        android:id="@+id/cluster"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:title="Clusters"
+        />
+</menu>

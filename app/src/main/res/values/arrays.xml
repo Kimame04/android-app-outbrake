@@ -1,0 +1,19 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="settings_default_tab_options">
+        <item>Log Temperature</item>
+        <item>News</item>
+        <item>Declare Travel</item>
+        <item>Clusters</item>
+    </string-array>
+    <string-array name="notification_times">
+        <item>5.00pm</item>
+        <item>6.00pm</item>
+        <item>7.00pm</item>
+    </string-array>
+    <string-array name="news">
+        <item>CNA - Discharged COVID-19 patients not a threat to the community: MOH</item>
+        <item>CNA - COVID-19: Bonus for public officers on frontline; political leaders to take pay cuts</item>
+        <item>CNA - 4 new COVID-19 cases linked to Science Park cluster, including Filipino maid</item>
+    </string-array>
+</resources>

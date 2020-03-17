@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="@string/settings_category_startup">
+        <ListPreference
+            android:entries="@array/settings_default_tab_options"
+            android:entryValues="@array/settings_default_tab_options"
+            android:key="settings_select_default"
+            android:summary="@string/thermo_log"
+            android:title="@string/settings_select_default" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577383169429",
+    "firebase_url": "https://outbrake.firebaseio.com",
+    "project_id": "outbrake",
+    "storage_bucket": "outbrake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577383169429:android:89f935f090e6d59b834a9c",
+        "android_client_info": {
+          "package_name": "com.example.outbrake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577383169429-p3nlk3ib6fgnd51gmrpith8io6e97umq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.outbrake",
+            "certificate_hash": "349e2ad75f1b21607a27f12abd64c2b1e1382b39"
+          }
+        },
+        {
+          "client_id": "577383169429-rggpkan82pll4li84tupjv9rui57invu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwZ8St-Bv4pj2-3mkBq_BExF3kWgguF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577383169429-rggpkan82pll4li84tupjv9rui57invu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
